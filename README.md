@@ -18,6 +18,22 @@ predicts dropout risk, and generates personalized study plans.
 
 ## 🛠️ Tech Stack
 `Python` `Scikit-learn` `XGBoost` `Pandas` `Streamlit` `Plotly` `Joblib` `Git`
+## 📸 Dashboard Screenshots
+
+### Overview
+![Overview](screenshots/Overview.png)
+
+### Early Warning System
+![Early Warning](screenshots/Early_Warning_System.png)
+
+### Student Profile
+![Student Profile](screenshots/Student_Profile_Analysis.png)
+
+### Study Plans
+![Study Plans](screenshots/Personalized_Study_Plan.png)
+
+### Analytics
+![Analytics](screenshots/Academic_Analytics_Dashboard.png)
 
 ## 📁 Project Structure
 
