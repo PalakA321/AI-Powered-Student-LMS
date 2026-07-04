@@ -2,6 +2,9 @@
 
 A machine learning system that detects struggling students early, 
 predicts dropout risk, and generates personalized study plans.
+## 🌐 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-powered-student-lms-lcjqd6rfz7xzqcsnwvcnby.streamlit.app)
 
 ## 📊 Results
 - 🔴 Dropout Detection Rate: **59.2%** (Isolation Forest)
