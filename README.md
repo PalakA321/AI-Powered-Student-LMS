@@ -24,7 +24,7 @@ predicts dropout risk, and generates personalized study plans.
 ![Overview](screenshots/Overview.png)
 
 ### Early Warning System
-![Early Warning](screenshots/Early_Warning_System.png)
+![Early Warning](screenshots/Early Warning System.png)
 
 ### Student Profile
 ![Student Profile](screenshots/Student_Profile_Analysis.png)
