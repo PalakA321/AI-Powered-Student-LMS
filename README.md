@@ -20,12 +20,26 @@ predicts dropout risk, and generates personalized study plans.
 `Python` `Scikit-learn` `XGBoost` `Pandas` `Streamlit` `Plotly` `Joblib` `Git`
 
 ## 📁 Project Structure
+
+```
 AI_Student_LMS/
-├── notebooks/          # Jupyter notebooks (EDA to modeling)
-├── models/             # Trained .pkl models
-├── data/               # Raw + processed dataset
-├── assets/             # Charts and visualizations
-└── dashboard.py        # Streamlit app
+├── notebooks/
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_preprocessing.ipynb
+│   ├── 03_anomaly_detection.ipynb
+│   └── 04_dropout_classifier.ipynb
+├── models/
+│   ├── isolation_forest.pkl
+│   ├── random_forest.pkl
+│   └── xgboost.pkl
+├── data/
+│   ├── raw/data.csv
+│   └── processed/
+├── assets/
+├── dashboard.py
+├── requirements.txt
+└── README.md
+```
 ## ▶️ Run Dashboard
 ```bash
 pip install -r requirements.txt
