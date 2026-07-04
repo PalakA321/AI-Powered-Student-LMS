@@ -1,0 +1,83 @@
+{
+  "\ud83d\udd34 Struggling Learner": {
+    "description": "Students with low grades and high dropout risk. Needs urgent structured support.",
+    "weekly_hours": 30,
+    "priority": "Catch up on failed units, attend all classes",
+    "schedule": {
+      "Monday": "3h \u2014 Revise weakest subject + solve 10 practice problems",
+      "Tuesday": "3h \u2014 Attend extra tutorial session + complete missed assignments",
+      "Wednesday": "4h \u2014 Study group session + previous year exam practice",
+      "Thursday": "3h \u2014 Revise 2nd weakest subject + topic summary notes",
+      "Friday": "3h \u2014 Mock test (1 subject) + error analysis",
+      "Saturday": "4h \u2014 Full revision of week topics + teacher consultation",
+      "Sunday": "2h \u2014 Light reading + plan next week goals"
+    },
+    "resources": [
+      "Khan Academy",
+      "NPTEL lectures",
+      "Past exam papers"
+    ],
+    "alert": "\u26a0\ufe0f HIGH DROPOUT RISK \u2014 Immediate faculty intervention recommended"
+  },
+  "\ud83d\udfe1 Average Performer": {
+    "description": "Students with average performance needing consistency and better study habits.",
+    "weekly_hours": 22,
+    "priority": "Build consistency, improve weaker subjects",
+    "schedule": {
+      "Monday": "3h \u2014 Core subject study + assignment completion",
+      "Tuesday": "2h \u2014 Review lecture notes + concept mapping",
+      "Wednesday": "3h \u2014 Practice problems (medium difficulty)",
+      "Thursday": "2h \u2014 Collaborative study + doubt clearing",
+      "Friday": "3h \u2014 Subject revision + mini quiz",
+      "Saturday": "4h \u2014 Deep dive into weak topic + lab practice",
+      "Sunday": "1.5h \u2014 Weekly review + goal setting"
+    },
+    "resources": [
+      "Coursera",
+      "YouTube subject channels",
+      "Textbook exercises"
+    ],
+    "alert": "\ud83d\udcca MEDIUM RISK \u2014 Monitor progress bi-weekly"
+  },
+  "\ud83d\udd35 Late Bloomer": {
+    "description": "Students who started slow but showed improvement. Needs motivation and momentum.",
+    "weekly_hours": 20,
+    "priority": "Maintain improvement momentum, build confidence",
+    "schedule": {
+      "Monday": "2.5h \u2014 Strengthen recently improved topics",
+      "Tuesday": "2.5h \u2014 New topic study + notes",
+      "Wednesday": "3h \u2014 Problem solving + peer teaching",
+      "Thursday": "2h \u2014 Self-assessment quiz + gap analysis",
+      "Friday": "3h \u2014 Project or practical work",
+      "Saturday": "3h \u2014 Review week + prepare for next unit",
+      "Sunday": "2h \u2014 Relaxed reading + motivation journaling"
+    },
+    "resources": [
+      "Podcasts",
+      "Visual learning platforms",
+      "Group projects"
+    ],
+    "alert": "\ud83d\udd35 LOW-MEDIUM RISK \u2014 Encourage and track trajectory"
+  },
+  "\ud83d\udfe2 High Achiever": {
+    "description": "Top performers with excellent grades. Focus on depth, research, and advanced topics.",
+    "weekly_hours": 15,
+    "priority": "Advanced topics, research, competitive preparation",
+    "schedule": {
+      "Monday": "2h \u2014 Advanced topic / research paper reading",
+      "Tuesday": "2h \u2014 Competitive exam practice (GATE/GRE prep)",
+      "Wednesday": "2h \u2014 Side project / open source contribution",
+      "Thursday": "2h \u2014 Peer mentoring / teaching juniors",
+      "Friday": "2h \u2014 Hackathon / challenge problems",
+      "Saturday": "3h \u2014 Deep research or portfolio building",
+      "Sunday": "1h \u2014 Reflect + plan innovation goals"
+    },
+    "resources": [
+      "Research papers (arXiv)",
+      "LeetCode",
+      "GitHub projects",
+      "Internship prep"
+    ],
+    "alert": "\u2705 LOW RISK \u2014 Encourage higher challenges"
+  }
+}
