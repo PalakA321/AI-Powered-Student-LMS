@@ -22,7 +22,6 @@ predicts dropout risk, and generates personalized study plans.
 ## 🛠️ Tech Stack
 `Python` `Scikit-learn` `XGBoost` `Pandas` `Streamlit` `Plotly` `Joblib` `Git`
 ## 📸 Dashboard Screenshots
-
 ### 🏠 Overview
 ![Overview](screenshots/Overview.png)
 
